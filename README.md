@@ -98,7 +98,7 @@ Results:  After comparing each partition  I decided to use the 50%-50%  because 
 4.2.1.-The following  table(4.2.1.1) shows the relation between the “ Predict nobody”  vs “ Predict Everybody”   using the full mobile home training data set  where:
 TN: True Negative ,TP: True Positive ,FN: False Negative .FP: False Positive
 
-![Picture14](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture14.png)
+![Picture14](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture14.PNG) 
                                                                     
                                                                    
 
