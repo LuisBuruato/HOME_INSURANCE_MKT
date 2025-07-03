@@ -81,6 +81,8 @@ Second Partition : I partitioned the the training data set in 70% test and 30% t
 Results:  After comparing each partition  I decided to use the 50%-50%  because it has a higher correlation coefficient:  .271  and the distribution of data is better.
                                                                    Figure  4.1.1.1
 
+                                                                   
+
                                                                    ![Picture12](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture12.png)
 
 
@@ -132,7 +134,7 @@ Conclusion:  The FN ten times worse than FP misclassification costs model  has t
 
 
 
- ![Picture12](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture12.png)
+ 
 
 
 
