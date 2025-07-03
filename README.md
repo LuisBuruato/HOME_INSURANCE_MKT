@@ -111,6 +111,12 @@ Results:  After comparing each partition  I decided to use the 50%-50%  because 
 TN: True Negative ,TP: True Positive ,FN: False Negative .FP: False Positive
 
 ![Picture14](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture14.PNG) 
+
+
+Conclusion : The overall cost of the  “predict everybody model”   is lower so I decided to take this model as a benchmark .
+4.3.- Generating 3 different CART models using the test data set and performing cost-benefit analysis.  Table  4.2.1.2
+
+![Picture15](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture15.png)
                                                                     
                                                                    
 
