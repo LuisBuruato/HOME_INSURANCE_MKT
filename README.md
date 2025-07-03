@@ -87,6 +87,18 @@ Results:  After comparing each partition  I decided to use the 50%-50%  because 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
                                                                     ![Picture13](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture13.png) 
 
 
