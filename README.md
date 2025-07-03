@@ -83,7 +83,7 @@ Results:  After comparing each partition  I decided to use the 50%-50%  because 
 
                                                                    
 
-                                                                   ![Picture12](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture12.png)
+ ![Picture12](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture12.png)
 
 
 
@@ -101,7 +101,7 @@ Results:  After comparing each partition  I decided to use the 50%-50%  because 
 
 
 
-                                                                    ![Picture13](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture13.png) 
+![Picture13](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture13.png) 
 
 
 
@@ -135,7 +135,7 @@ Conclusion:  The FN ten times worse than FP misclassification costs model  has t
 
 
 
-   ![Picture13](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture13.png)                                                                 
+                                                                   
 
 
 
