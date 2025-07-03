@@ -116,7 +116,7 @@ TN: True Negative ,TP: True Positive ,FN: False Negative .FP: False Positive
 Conclusion : The overall cost of the  “predict everybody model”   is lower so I decided to take this model as a benchmark .
 4.3.- Generating 3 different CART models using the test data set and performing cost-benefit analysis.  Table  4.2.1.2
 
-![Picture15](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture15.png)
+![Picture15](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture15.PNG)
                                                                     
                                                                    
 
