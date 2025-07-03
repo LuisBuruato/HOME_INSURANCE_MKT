@@ -127,16 +127,12 @@ Conclusion:  The FN ten times worse than FP misclassification costs model  has t
 
 ![Picture16](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture16.png) 
 
-
- ![Picture17](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture17.png)  
-![Picture18](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture18.png)  
-![Picture19](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture19.png)  
-![Picture20](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture20.png)                                                             
+                                                          
                                                                    
 
 
 
-
+ ![Picture12](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture12.png)
 
 
 
