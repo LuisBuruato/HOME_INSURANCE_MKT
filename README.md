@@ -126,7 +126,12 @@ Conclusion:  The FN ten times worse than FP misclassification costs model  has t
 4.4.1. As we can see on figure  4.4.4.1  the graphic represents the 3 different models constructed with the test data set where $R=CartmisclassDefault, $R1=Cartmisclass5x and $R2=Cartmisclass10x.  Comparing each line is evident that $R2 has the highest proportion of positive hits . 
 
 ![Picture16](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture16.png) 
-                                                             
+
+
+ ![Picture17](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture17.png)  
+![Picture18](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture18.png)  
+![Picture19](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture19.png)  
+![Picture20](Desktop/HOME_INSURANCE_MKT/IMAGENES/Picture20.png)                                                             
                                                                    
 
 
